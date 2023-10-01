@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehmetSarisan
 - 👀 I’m interested in indie game development
-- 🌱 I’m currently learning Unity and c#
+- 🌱 I’m currently learning Godot Game engine and Programming
 - 💞️ I’m looking to collaborate on indie game projects
 - 📫 you can contact me on my e-mail: mesarisan@gmail.com
 
